@@ -1,0 +1,13 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Controllers",
+    "\\Data",
+    "\\DTOs",
+    "\\Models",
+    "\\Services",
+    "\\Services\\Implement",
+    "\\Services\\Interfaces"
+  ],
+  "PreviewInSolutionExplorer": false
+}
